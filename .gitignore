@@ -1,0 +1,51 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+data/temp/*
+!data/temp/.gitkeep
+*.png
+*.jpg
+*.jpeg
+!assets/*.jpg
+!assets/*.png
+
+# Database files
+*.db
+*.sqlite
+*.sql.backup
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Installer files
+*.exe
+*.msi
