@@ -194,7 +194,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👨‍💻 Author
 
 **Devansh**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [Devansh](https://github.com/anshudevansh)
 
 ## 🙏 Acknowledgments
 
@@ -204,7 +204,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-For questions or support, please open an issue or contact [your-email@example.com](mailto:your-email@example.com)
+For questions or support, please open an issue or contact [your-email@example.com](mailto:anshudevansh@gmail.com)
 
 ---
 
